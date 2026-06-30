@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/craftwave-skill-10",
+  "description": "为情侣和新婚夫妇提供的浪漫邮轮选择，适合在特别的日子里享受浪漫与美好。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/8412a655-f2fd-4944-9013-77180983c4f9"
+    }
+  ]
+}
